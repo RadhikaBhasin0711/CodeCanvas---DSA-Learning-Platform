@@ -38,14 +38,25 @@ The project is built using **Node.js, Express, EJS, CSS, and JavaScript**, provi
 ---
 
 ## 🖼️ Screenshots
-
-Add your animation screenshots in the `screenshots/` folder and link them:
-
 ```md
+## 📸 Screenshots
+
+### 🏠 Landing Page
 ![Landing Page](./screenshots/landing-page.png)
-![Array Animation](./screenshots/array.png)
-![Bubble Sort Animation](./screenshots/bubble-sort.png)
+
+### 📚 Array Animation
+![Array](./screenshots/array.png)
+
+### 🔁 Bubble Sort Animation
+![Bubble Sort](./screenshots/bubble-sort.png)
+
+### 🔍 Bubble Sort Description
 ![Bubble Sort Description](./screenshots/bubble-sort-description.png)
-![Stack Animation](./screenshots/Stack.png)
-![Quizzes](./screenshots/quiz.png)
+
+### 🧱 Stack Animation
+![Stack](./screenshots/Stack.png)
+
+### 🎯 Quiz Page
+![Quiz](./screenshots/quiz.png)
+
 
